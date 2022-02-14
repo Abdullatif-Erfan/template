@@ -14,8 +14,8 @@ const axiosMock = axios as jest.Mocked<typeof axios>;
 const mockFriends: Friend[] = [
   {
     id: 1,
-    name: 'Omar Little',
-    email: 'o.little@comeattheking.com',
+    name: 'Abdul Latif Erfan',
+    email: 'abdullatif.erfan@gmail.com',
     avatarUrl: 'https://i.imgur.com/eTia7Xp.jpg',
   },
 ];
